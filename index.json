@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": "avatar",
+      "label": "Avatar",
+      "elements": [
+        {
+          "type": "DIMENSION"
+        }
+      ]
+    },
+    {
+      "id": "vendedor",
+      "label": "Vendedor",
+      "elements": [
+        {
+          "type": "DIMENSION"
+        }
+      ]
+    },
+    {
+      "id": "cidade",
+      "label": "Cidade",
+      "elements": [
+        {
+          "type": "DIMENSION"
+        }
+      ]
+    },
+    {
+      "id": "pontuacao",
+      "label": "Pontuação",
+      "elements": [
+        {
+          "type": "METRIC"
+        }
+      ]
+    },
+    {
+      "id": "clientes",
+      "label": "Clientes",
+      "elements": [
+        {
+          "type": "METRIC"
+        }
+      ]
+    }
+  ]
+}
