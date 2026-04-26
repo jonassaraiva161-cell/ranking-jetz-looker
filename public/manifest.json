@@ -1,7 +1,7 @@
 {
   "name": "Ranking Jetz",
   "organization": "Jetz Internet",
-  "description": "Visualização personalizada de ranking comercial da equipe Jetz.",
+  "description": "Visualização personalizada de ranking comercial",
   "logoUrl": "https://ranking-jetz-looker.vercel.app/logo.png",
   "packageUrl": "https://ranking-jetz-looker.vercel.app",
   "supportUrl": "https://ranking-jetz-looker.vercel.app",
@@ -10,8 +10,8 @@
     {
       "id": "rankingjetz",
       "name": "Ranking Jetz",
-      "description": "Ranking comercial personalizado",
       "iconUrl": "https://ranking-jetz-looker.vercel.app/logo.png",
+      "description": "Ranking comercial",
       "resource": {
         "js": "https://ranking-jetz-looker.vercel.app/index.js",
         "config": "https://ranking-jetz-looker.vercel.app/index.json"
