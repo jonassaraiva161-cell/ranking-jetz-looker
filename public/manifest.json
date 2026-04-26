@@ -6,12 +6,18 @@
   "supportUrl": "https://ranking-jetz-looker.vercel.app",
   "packageUrl": "https://ranking-jetz-looker.vercel.app",
   "devMode": true,
-  "resources": {
-    "js": [
-      "https://ranking-jetz-looker.vercel.app/index.js"
-    ]
-  },
-  "config": {
-    "file": "https://ranking-jetz-looker.vercel.app/index.json"
-  }
+  "components": [
+    {
+      "id": "rankingViz",
+      "name": "Ranking Jetz",
+      "description": "Ranking comercial",
+      "iconUrl": "https://ranking-jetz-looker.vercel.app/logo.png",
+      "resource": {
+        "script": "https://ranking-jetz-looker.vercel.app/index.js"
+      },
+      "config": {
+        "file": "https://ranking-jetz-looker.vercel.app/index.json"
+      }
+    }
+  ]
 }
