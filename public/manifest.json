@@ -1,17 +1,17 @@
 {
   "name": "Ranking Jetz",
   "description": "Visualização personalizada de ranking comercial",
-  "logoUrl": "https://ranking-jetz.vercel.app/logo.png",
+  "logoUrl": "https://ranking-jetz-looker.vercel.app/logo.png",
   "organization": "Jetz Internet",
-  "supportUrl": "https://ranking-jetz.vercel.app",
-  "packageUrl": "https://ranking-jetz.vercel.app",
+  "supportUrl": "https://ranking-jetz-looker.vercel.app",
+  "packageUrl": "https://ranking-jetz-looker.vercel.app",
   "devMode": true,
   "resources": {
     "js": [
-      "https://ranking-jetz.vercel.app/index.js"
+      "https://ranking-jetz-looker.vercel.app/index.js"
     ]
   },
   "config": {
-    "file": "https://ranking-jetz.vercel.app/index.json"
+    "file": "https://ranking-jetz-looker.vercel.app/index.json"
   }
 }
