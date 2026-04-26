@@ -6,16 +6,12 @@
   "supportUrl": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/",
   "packageUrl": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/",
   "devMode": true,
-  "components": [
-    {
-      "id": "rankingViz",
-      "name": "Ranking Jetz",
-      "description": "Ranking comercial",
-      "iconUrl": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/logo.png",
-      "resource": {
-        "script": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/index.js",
-        "config": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/index.json"
-      }
-    }
-  ]
+  "resources": {
+    "js": [
+      "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/index.js"
+    ]
+  },
+  "config": {
+    "file": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/index.json"
+  }
 }
