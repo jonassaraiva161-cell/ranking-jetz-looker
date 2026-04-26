@@ -13,7 +13,7 @@
       "description": "Ranking comercial",
       "iconUrl": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/logo.png",
       "resource": {
-        "js": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/index.js",
+        "script": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/index.js",
         "config": "https://jonassaraiva161-cell.github.io/ranking-jetz-looker/index.json"
       }
     }
